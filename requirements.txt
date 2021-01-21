@@ -19,7 +19,7 @@ colorama==0.4.3
 colorful==0.5.4
 contextvars==2.4
 crowdai-api==0.1.22
-cssselect2==0.3.0
+# cssselect2==0.3.0
 cycler==0.10.0
 Cython==0.29.21
 decorator==4.4.2
@@ -32,11 +32,11 @@ Flask-Cors==3.0.8
 Flask-SocketIO==4.3.0
 future==0.18.2
 gast==0.2.2
-google==3.0.0
-google-api-core==1.22.1
-google-auth==1.20.1
-google-pasta==0.2.0
-googleapis-common-protos==1.52.0
+# google==3.0.0
+# google-api-core==1.22.1
+# google-auth==1.20.1
+# google-pasta==0.2.0
+# googleapis-common-protos==1.52.0
 gpustat==0.6.0
 grpcio==1.28.1
 gym==0.17.3
@@ -63,9 +63,9 @@ lxml==4.5.1
 Markdown==3.2.1
 MarkupSafe==1.1.1
 matplotlib==3.2.1
-mkl-fft==1.1.0
-mkl-random==1.1.1
-mkl-service==2.3.0
+# mkl-fft==1.1.0
+# mkl-random==1.1.1
+# mkl-service==2.3.0
 mock==4.0.2
 more-itertools==8.3.0
 msgpack==1.0.0
@@ -130,7 +130,7 @@ termcolor==1.1.0
 Theano==1.0.4
 tifffile==2020.5.11
 timeout-decorator==0.4.1
-tinycss2==1.0.2
+# tinycss2==1.0.2
 toml==0.10.1
 tox==3.15.2
 tqdm==4.50.2
